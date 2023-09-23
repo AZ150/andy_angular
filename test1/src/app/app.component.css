@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    background-color: blueviolet;
+    text-align: center;
+}
+p{
+    font-size: xx-large;
+    font-style: italic;
+}
+.sentence{
+    font-style: unset;
+    color: aquamarine;
+    font-size: small;
+}
